@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BikeController",
+    "Method": "CreateBike",
+    "RelativePath": "api/bikes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CreateBikeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

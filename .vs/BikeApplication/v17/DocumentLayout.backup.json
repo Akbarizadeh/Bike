@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal\\BikeProject\\Bike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B9B158-096C-4BD2-8D57-D1835E81160D}|src\\BikeService\\BikeService.Contracts\\BikeService.Contracts.csproj|e:\\personal\\bikeproject\\bike\\src\\bikeservice\\bikeservice.contracts\\bike\\commands\\createbikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B9B158-096C-4BD2-8D57-D1835E81160D}|src\\BikeService\\BikeService.Contracts\\BikeService.Contracts.csproj|solutionrelative:src\\bikeservice\\bikeservice.contracts\\bike\\commands\\createbikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC09FE1-E7DF-4E93-AFFD-D86A0D226CFC}|src\\framework\\Msft.Core\\Msft.Core.csproj|e:\\personal\\bikeproject\\bike\\src\\framework\\msft.core\\domain\\events\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC09FE1-E7DF-4E93-AFFD-D86A0D226CFC}|src\\framework\\Msft.Core\\Msft.Core.csproj|solutionrelative:src\\framework\\msft.core\\domain\\events\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBikeCommand.cs",
+              "DocumentMoniker": "E:\\Personal\\BikeProject\\Bike\\src\\BikeService\\BikeService.Contracts\\Bike\\Commands\\CreateBikeCommand.cs",
+              "RelativeDocumentMoniker": "src\\BikeService\\BikeService.Contracts\\Bike\\Commands\\CreateBikeCommand.cs",
+              "ToolTip": "E:\\Personal\\BikeProject\\Bike\\src\\BikeService\\BikeService.Contracts\\Bike\\Commands\\CreateBikeCommand.cs",
+              "RelativeToolTip": "src\\BikeService\\BikeService.Contracts\\Bike\\Commands\\CreateBikeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:48:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainEventPublisher.cs",
+              "DocumentMoniker": "E:\\Personal\\BikeProject\\Bike\\src\\framework\\Msft.Core\\Domain\\Events\\DomainEventPublisher.cs",
+              "RelativeDocumentMoniker": "src\\framework\\Msft.Core\\Domain\\Events\\DomainEventPublisher.cs",
+              "ToolTip": "E:\\Personal\\BikeProject\\Bike\\src\\framework\\Msft.Core\\Domain\\Events\\DomainEventPublisher.cs",
+              "RelativeToolTip": "src\\framework\\Msft.Core\\Domain\\Events\\DomainEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:16:19.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

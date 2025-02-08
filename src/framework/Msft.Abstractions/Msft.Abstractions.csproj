@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Core\Domain\Events\Store\**" />
+    <Compile Remove="Core\Domain\Model\EventSourcing\**" />
+    <EmbeddedResource Remove="Core\Domain\Events\Store\**" />
+    <EmbeddedResource Remove="Core\Domain\Model\EventSourcing\**" />
+    <None Remove="Core\Domain\Events\Store\**" />
+    <None Remove="Core\Domain\Model\EventSourcing\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.GuardClauses.Custom" Version="4.0.6" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+</Project>
